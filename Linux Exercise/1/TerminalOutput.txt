@@ -1,0 +1,9 @@
+shtlp_0147@SHTLP0147:~/Assignment_3-Linux_and_Sql-/Linux Exercise/1$ touch example.txt
+shtlp_0147@SHTLP0147:~/Assignment_3-Linux_and_Sql-/Linux Exercise/1$ ls
+example.txt
+shtlp_0147@SHTLP0147:~/Assignment_3-Linux_and_Sql-/Linux Exercise/1$ chmod 600 example.txt
+shtlp_0147@SHTLP0147:~/Assignment_3-Linux_and_Sql-/Linux Exercise/1$ ls
+example.txt
+shtlp_0147@SHTLP0147:~/Assignment_3-Linux_and_Sql-/Linux Exercise/1$ ls -l
+total 0
+-rw------- 1 shtlp_0147 shtlp_0147 0 Oct 18 16:28 example.txt

@@ -1,0 +1,4 @@
+shtlp_0147@SHTLP0147:~/Assignment_3-Linux_and_Sql-/Linux Exercise/3$ ./script.sh
+Started Kill_Me_Please_20241018_165337 with PID 60148
+
+shtlp_0147@SHTLP0147:~/Assignment_3-Linux_and_Sql-/Linux Exercise/3$ ./monitor_kill_processes.sh
