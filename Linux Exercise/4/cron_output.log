@@ -1,0 +1,10 @@
+Initializing the scan for the directory: /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files
+Starting directory monitoring for /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files
+Scanning for the largest file in /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files
+Largest file: /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir1/large_demo_file.txt (Size: 10485760 bytes)
+mysql: [Warning] Using a password on the command line interface can be insecure.
+Initializing the scan for the directory: /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files
+Starting directory monitoring for /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files
+Scanning for the largest file in /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files
+Largest file: /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir1/large_demo_file.txt (Size: 10485760 bytes)
+mysql: [Warning] Using a password on the command line interface can be insecure.

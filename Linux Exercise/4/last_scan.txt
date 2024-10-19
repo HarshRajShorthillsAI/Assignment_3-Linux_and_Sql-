@@ -1,0 +1,13 @@
+1729366427 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/test.txt
+1729328100 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir3/subdir3a/file5.txt
+1729328100 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir3/file8.txt
+1729369239 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir1/test5.txt
+1729328100 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir1/file2.txt
+1729367126 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir1/large_demo_file.txt
+1729328100 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir1/file1.txt
+1729367062 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir1/demo_file.txt
+1729328100 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir4/file6.txt
+1729328100 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir2/subdir2b/subdir2b_1/file4.txt
+1729328100 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir2/subdir2b/file7.txt
+1729368733 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir2/test3.txt
+1729328100 /home/shtlp_0147/Assignment_3-Linux_and_Sql-/Linux Exercise/4/sample_files/dir2/subdir2a/file3.txt
